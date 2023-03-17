@@ -1,7 +1,7 @@
 [submodule "images"]
 	path = images
-    url = https://github.com/p20samiv2/images.git
-    branch = master
+        url = https://github.com/p20samiv2/images.git
+        branch = master
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/p20samiv2/_gallery.git
