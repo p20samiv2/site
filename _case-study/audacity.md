@@ -1,7 +1,7 @@
 ---
 author: p20sami
 title: Audacity 
-image_url: /images/audacity.png
+image_url: /images/audacity-v3.jpg
 caption: "Το λογισμικό είναι απανταχού παρόν, έτσι και στην ψηφιακή επεξεργασία του ήχου μέσω ποικίλων εργαλείων, με σκοπό την παραγωγή κάποιου μουσικού κομματιού ή την ηχογράφηση του."
 categories:
   - Μελέτη Περίπτωσης
