@@ -6,9 +6,9 @@ caption: " Το λογισμικό βρίσκεται ακόμη και στην
 events:
   - max-language
   - pure-data
+  - open-music
   - napster
   - itunes3
   - reactable-music
   - reactivision-simulator
-  - 
 ---
